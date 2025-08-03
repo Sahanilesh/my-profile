@@ -16,7 +16,7 @@
 🌱 I’m learning **Next.js**, **TypeScript**, and building full-stack apps  
 💼 Tech Stack: **React.js, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, MySQL**  
 🛠️ Tools: **Git, GitHub, Postman, VS Code, Figma**  
-📫 Reach me at: `nileshsahani.dev@gmail.com`  
+📫 Reach me at: `sahaninilesh18@gmail.com`  
 💬 Ask me about **React, REST APIs, MERN Projects**  
 ⚡ Fun Fact: I love debugging more than writing new code 😄
 
@@ -26,7 +26,6 @@
 
 - 🔐 **MERN Auth System** – Full authentication system with OTP verification & password reset  
 - 🛒 **E-Commerce App** – Full-stack shopping app with admin & customer dashboards  
-- 🌐 **Infosys Recruitment Portal** – Internal employee app for recruitment workflows (Enterprise project)
 
 ---
 
@@ -42,7 +41,7 @@
 ### 🤝 Let's Connect
 
 - 🌐 LinkedIn: [Nilesh Sahani](https://www.linkedin.com/in/nilesh-sahani-2b2b1b227/)
-- 📬 Email: nileshsahani.dev@gmail.com
+- 📬 Email: sahaninilesh18@gmail.com
 
 ---
 
