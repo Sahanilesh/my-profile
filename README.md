@@ -1,3 +1,71 @@
+# Hi, I'm Nilesh Sahani 👋
+
+Frontend Developer | React.js | JavaScript  
+📍 Thane, Maharashtra, India  
+
+I am a **Frontend Developer with 2+ years of corporate experience at Infosys**, focused on building **scalable, performance-optimized React applications**. I enjoy creating clean UI, reusable components, and user-friendly web experiences.
+
+---
+
+## 🚀 Tech Stack
+
+**Frontend**
+- React.js, JavaScript (ES6+), Next.js  
+- Redux, Context API  
+- HTML5, CSS3, Tailwind CSS  
+
+**Backend (Working Knowledge)**
+- Node.js, Express.js  
+- REST APIs, JWT Authentication  
+
+**Database**
+- MongoDB, MySQL  
+
+**Tools**
+- Git, GitHub, Postman, VS Code  
+- Agile / Scrum, API Integration  
+- Deployment: Vercel  
+
+---
+
+## 💼 Experience Snapshot
+
+**Infosys Ltd. – System Engineer (Frontend Developer)**  
+🗓 Oct 2022 – Mar 2025  
+
+- Improved frontend performance by **~30%** by optimizing React rendering and reducing unnecessary re-renders  
+- Built **modular and reusable React components**, reducing feature development time by **~20%**  
+- Integrated REST APIs and collaborated with backend teams  
+- Worked in **Agile environment**, code reviews, and Git workflows  
+
+---
+
+## 🧩 Featured Projects
+
+### 🛒 E-Commerce Platform (MERN Stack)
+🔗 Repo: https://github.com/Sahanilesh/<your-repo-name>  
+🔗 Live: <add-live-link>
+
+- Responsive React UI using Redux & Tailwind CSS  
+- JWT-based authentication & role-based access  
+- Stripe payment gateway integration  
+- Cloudinary for image optimization  
+
+**Tech:** React, Redux, Tailwind, Node.js, Express, MongoDB  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: sahaninilesh18@gmail.com  
+- 💼 LinkedIn: <add-linkedin-url>  
+- 🧑‍💻 GitHub: https://github.com/Sahanilesh  
+
+---
+
+⭐ Open to **Frontend / React Developer** opportunities
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/nilesh-sahani-2b2b1b227/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahaninilesh18@gmail.com) 
